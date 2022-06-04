@@ -11,5 +11,10 @@ img{
     grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
     align-items: center;
     justify-items: center;
-    background-color: bisque;
+    
+}
+p{
+    height: 300px;
+    background-color: blue;
+    width:300px;
 }
